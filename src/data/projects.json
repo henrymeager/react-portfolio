@@ -1,0 +1,18 @@
+[
+  {
+    "title": "React Book Swap App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a group project that we worked on during our bootcamp with iO Academy This app was built inside of React, and then the SQL database was made afterwards. The app serves as a book swapping application, where the user can add, review, claim, return and do other things with the library of books on the website.",
+    "skills": ["React", "MySQL"],
+    "demo": "https://23-sept-cat-mode-bookswap-api.dev.io-academy.uk/",
+    "source": "https://github.com/iO-Academy/23-sept-catmode-bookswap-fe"
+  },
+  {
+    "title": "Coming Soon",
+    "imageSrc": "projects/project.png",
+    "description": "Check back here soon to see my next project that I've been working on!",
+    "skills": ["React", "TypeScript"],
+    "demo": "",
+    "source": ""
+  }
+]

@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Student",
+      "organisation": "iO Academy",
+      "startDate": "Sept, 2023",
+      "endDate": "December 2023",
+      "experiences": ["Studied in iO Academy and learnt the fundamentals of Front End Development."],
+      "imageSrc": "history/ioAcademy.png"
+    }
+  ]
