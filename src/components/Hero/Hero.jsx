@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a Front End Developer, looking to land my first role in tech. Reach out if you'd like to learn more!
         </p>
-        <a href="hero/henryMeagerCV.pdf" download="henryMeagerCV.pdf" className={styles.contactBtn}>Download CV</a>
+        <a href="assets/hero/henryMeagerCV.pdf" download="henryMeagerCV.pdf" className={styles.contactBtn}>Download CV</a>
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}
